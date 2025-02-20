@@ -7,4 +7,5 @@ Please start the web application according to the instructions given at https://
 ## To run the playwright tests, run below commands:
 
 npm install
+
 npx playwright test ea-coding-test --project=chromium
